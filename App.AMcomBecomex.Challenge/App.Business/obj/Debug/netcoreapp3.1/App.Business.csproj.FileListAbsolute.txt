@@ -1,0 +1,9 @@
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.csproj.AssemblyReference.cache
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.AssemblyInfoInputs.cache
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.AssemblyInfo.cs
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.csproj.CoreCompileInputs.cache
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netcoreapp3.1\App.Business.deps.json
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netcoreapp3.1\App.Business.dll
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netcoreapp3.1\App.Business.pdb
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.dll
+C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.pdb

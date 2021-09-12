@@ -1,0 +1,68 @@
+
+<div class="row mt-5">
+    <div class="col">
+        <h1 class="display-6">{{ country.name }}</h1>
+    </div>
+    <div class="col-auto">
+        <img [src]="country.flag" [alt]="country.name" height="50px">
+    </div>
+</div>
+<hr>
+<div class="row">
+    <p><span class="bold">Capital:</span> {{ country.capital }}</p>
+</div>
+<div class="row">
+    <p><span class="bold">Population: </span>{{ country.population | number }}</p>
+</div>
+<div class="row">
+    <p><span class="bold">Currencie(s): </span></p>
+    <div class="mr-3">
+        <ul>
+            <li *ngFor="let currency of country.currencies">
+                {{ currency.name + ' (' + currency.symbol + ')' }}
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <p><span class="bold">Regional Bloc(s): </span></p>
+    <div class="mr-3">
+        <span *ngIf="country.regionalBlocs.length == 0">None</span>
+        <ul>
+            <li *ngFor="let bloc of country.regionalBlocs">
+                {{ bloc.name + ' - ' + bloc.acronym }}
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <p><span class="bold">Time Zone(s): </span></p>
+    <div class="mr-3">
+        <ul>
+            <li *ngFor="let timezone of country.timezones">
+                {{ timezone }}
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <p><span class="bold">Language(s): </span></p>
+    <div class="mr-3">
+        <ul>
+            <li *ngFor="let language of country.languages">
+                {{ language.nativeName + ' (' + language.name + ')' }}
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <p><span class="bold">Bordering Country(es): </span></p>
+    <div class="mr-3">
+        <ul>
+            <li *ngFor="let border of country.borders" (click)="getCountry(border)">
+                <a href="javascript:void(0)">{{ border }}</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<button type="button" class="btn btn-secondary" (click)="backToSearch()">Back</button>

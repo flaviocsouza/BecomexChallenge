@@ -1,0 +1,20 @@
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Initials</th>            
+            <th>Currencies</th>
+            <th>Flag</th>            
+            <th>Regional Blocs</th>
+        </tr>
+    </thead>
+    <tbody>        
+        <tr *ngFor="let country of countryList" (click)="redirectToDetails(country)">
+            <td>{{ country.name }}</td>
+            <td>{{ country.alpha3Code }}</td>            
+            <td>{{ country.currencies | CurrenciesToString }}</td>
+            <td><img [src]="country.flag" [alt]="country.name" height="30px"></td>            
+            <td>{{ country.regionalBlocs | BlocsToString }}</td>
+        </tr>
+    </tbody>
+</table>
