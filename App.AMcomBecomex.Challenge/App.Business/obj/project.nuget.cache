@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+21AuG0ZB6bgDiTqG7P40FfhCs1h/13mZgx0gGzhKFsW4g0xEVCWEbA6YMqW2UQMRNWE69eZtTBAhRdGezVC0A==",
+  "dgSpecHash": "JceLMlJqM9EZQschX+dV57cM71lubUR2v3CDNi9+Pgg9MfobTlMDe+uoCM3j/19WK052ynqlzxtVwRJXM4Qr/Q==",
   "success": true,
-  "projectFilePath": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj",
+  "projectFilePath": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kei\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Kei\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

@@ -7,3 +7,12 @@ C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netc
 C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netcoreapp3.1\App.Business.pdb
 C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.dll
 C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.pdb
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netcoreapp3.1\App.Business.deps.json
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netcoreapp3.1\App.Business.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\bin\Debug\netcoreapp3.1\App.Business.pdb
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.csproj.AssemblyReference.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.AssemblyInfoInputs.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.AssemblyInfo.cs
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Business\obj\Debug\netcoreapp3.1\App.Business.pdb

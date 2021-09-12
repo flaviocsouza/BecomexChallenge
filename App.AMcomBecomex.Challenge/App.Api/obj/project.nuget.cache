@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYOMVkgITovmy+oldBKVKGlCUCwdVycDsZUNEOc1AZ2xIJKpxjW8L0Sm6a80aj3F0AYS2UmbYpaFZf6vgHLvtQ==",
+  "dgSpecHash": "Q+9tm/lCZErzZvsckBkA4pqjKNqgfa8XS440JmBqKjCxvV0OH/U7VRgqg4WIhIVCNaDdfThoDn6cDHYA3eH8Yg==",
   "success": true,
-  "projectFilePath": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Api\\App.Api.csproj",
+  "projectFilePath": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Api\\App.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kei\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Kei\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

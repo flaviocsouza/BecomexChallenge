@@ -624,11 +624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Api\\App.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Api\\App.Api.csproj",
       "projectName": "App.Api",
-      "projectPath": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Api\\App.Api.csproj",
+      "projectPath": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Api\\App.Api.csproj",
       "packagesPath": "C:\\Users\\Kei\\.nuget\\packages\\",
-      "outputPath": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Api\\obj\\",
+      "outputPath": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -645,8 +645,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj": {
-              "projectPath": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj"
+            "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj": {
+              "projectPath": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj"
             }
           }
         }

@@ -320,11 +320,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj",
       "projectName": "App.Business",
-      "projectPath": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj",
+      "projectPath": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Business\\App.Business.csproj",
       "packagesPath": "C:\\Users\\Kei\\.nuget\\packages\\",
-      "outputPath": "C:\\Projs\\BecomexChallenge\\App.AMcomBecomex.Challenge\\App.Business\\obj\\",
+      "outputPath": "C:\\Users\\Kei\\Desktop\\Nova pasta (2)\\App.AMcomBecomex.Challenge\\App.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kei\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,3 +32,37 @@ C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreap
 C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Projs\BecomexChallenge\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Api.exe
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Api.deps.json
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Api.runtimeconfig.json
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Api.runtimeconfig.dev.json
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Api.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Api.pdb
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Business.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\bin\Debug\netcoreapp3.1\App.Business.pdb
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.csproj.AssemblyReference.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.AssemblyInfoInputs.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.AssemblyInfo.cs
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.csproj.CoreCompileInputs.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\staticwebassets\App.Api.StaticWebAssets.Manifest.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\staticwebassets\App.Api.StaticWebAssets.xml
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\App.Api.styles.css
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.csproj.CopyComplete
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.dll
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.pdb
+C:\Users\Kei\Desktop\Nova pasta (2)\App.AMcomBecomex.Challenge\App.Api\obj\Debug\netcoreapp3.1\App.Api.genruntimeconfig.cache
